@@ -3,11 +3,11 @@
   <title>鑫鑫渔具</title>
   
   <subtitle>东莞市鑫鑫渔具有限公司</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://www.gznb.xyz/mnfsite.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://www.gznb.xyz/mnfsite.github.io/"/>
   <updated>2022-09-20T06:26:26.864Z</updated>
-  <id>http://example.com/</id>
+  <id>https://www.gznb.xyz/mnfsite.github.io/</id>
   
   <author>
     <name>龚德武</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>德玛西亚</title>
-    <link href="http://example.com/2022/09/20/de-ma-xi-ya/"/>
-    <id>http://example.com/2022/09/20/de-ma-xi-ya/</id>
+    <link href="https://www.gznb.xyz/mnfsite.github.io/2022/09/20/de-ma-xi-ya/"/>
+    <id>https://www.gznb.xyz/mnfsite.github.io/2022/09/20/de-ma-xi-ya/</id>
     <published>2022-09-20T03:56:29.000Z</published>
     <updated>2022-09-20T06:26:26.864Z</updated>
     
@@ -35,12 +35,12 @@
     
     
     
-    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    <category term="Markdown" scheme="https://www.gznb.xyz/mnfsite.github.io/categories/Markdown/"/>
     
     
-    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    <category term="Typora" scheme="https://www.gznb.xyz/mnfsite.github.io/tags/Typora/"/>
     
-    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://www.gznb.xyz/mnfsite.github.io/tags/Markdown/"/>
     
   </entry>
   
