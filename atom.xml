@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>鑫鑫渔具</title>
+  
+  <subtitle>东莞市鑫鑫渔具有限公司</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-09-20T06:26:26.864Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>龚德武</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>德玛西亚</title>
+    <link href="http://example.com/2022/09/20/de-ma-xi-ya/"/>
+    <id>http://example.com/2022/09/20/de-ma-xi-ya/</id>
+    <published>2022-09-20T03:56:29.000Z</published>
+    <updated>2022-09-20T06:26:26.864Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;第一篇文章&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="Markdown" scheme="http://example.com/categories/Markdown/"/>
+    
+    
+    <category term="Typora" scheme="http://example.com/tags/Typora/"/>
+    
+    <category term="Markdown" scheme="http://example.com/tags/Markdown/"/>
+    
+  </entry>
+  
+</feed>
