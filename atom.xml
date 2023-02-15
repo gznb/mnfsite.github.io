@@ -6,7 +6,7 @@
   <link href="https://www.gznb.xyz/atom.xml" rel="self"/>
   
   <link href="https://www.gznb.xyz/"/>
-  <updated>2023-02-13T13:19:18.243Z</updated>
+  <updated>2023-02-15T14:39:50.752Z</updated>
   <id>https://www.gznb.xyz/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.gznb.xyz/2023/02/10/coyk1n1eggq00g0o/"/>
     <id>https://www.gznb.xyz/2023/02/10/coyk1n1eggq00g0o/</id>
     <published>2023-02-10T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.243Z</updated>
+    <updated>2023-02-15T14:39:50.752Z</updated>
     
     
       
@@ -39,9 +39,9 @@
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
     
-    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
-    
     <category term="针尾" scheme="https://www.gznb.xyz/tags/%E9%92%88%E5%B0%BE/"/>
+    
+    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
     
   </entry>
   
@@ -50,7 +50,7 @@
     <link href="https://www.gznb.xyz/2023/02/10/hcigv59231cbm40r/"/>
     <id>https://www.gznb.xyz/2023/02/10/hcigv59231cbm40r/</id>
     <published>2023-02-10T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.245Z</updated>
+    <updated>2023-02-15T14:39:50.755Z</updated>
     
     
       
@@ -63,7 +63,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="内德饵" scheme="https://www.gznb.xyz/categories/%E5%86%85%E5%BE%B7%E9%A5%B5/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -77,7 +77,7 @@
     <link href="https://www.gznb.xyz/2023/02/10/vtn5m7ayne22yk0c/"/>
     <id>https://www.gznb.xyz/2023/02/10/vtn5m7ayne22yk0c/</id>
     <published>2023-02-10T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.245Z</updated>
+    <updated>2023-02-15T14:39:50.758Z</updated>
     
     
       
@@ -85,33 +85,6 @@
         
         
     <summary type="html">&lt;h2 id=&quot;灵动虾&quot;&gt;&lt;a href=&quot;#灵动虾&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
-    
-    
-    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
-    
-    <category term="虾" scheme="https://www.gznb.xyz/tags/%E8%99%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>泡泡虾</title>
-    <link href="https://www.gznb.xyz/2023/02/10/gv0adv9af1ycqp25/"/>
-    <id>https://www.gznb.xyz/2023/02/10/gv0adv9af1ycqp25/</id>
-    <published>2023-02-10T08:00:00.000Z</published>
-    <updated>2023-02-13T13:19:18.243Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;泡泡虾&quot;&gt;&lt;a href=&quot;#泡泡虾&quot; class=&quot;headerlink&quot;</summary>
         
       
     
@@ -127,11 +100,40 @@
   </entry>
   
   <entry>
+    <title>泡泡虾</title>
+    <link href="https://www.gznb.xyz/2023/02/10/gv0adv9af1ycqp25/"/>
+    <id>https://www.gznb.xyz/2023/02/10/gv0adv9af1ycqp25/</id>
+    <published>2023-02-10T08:00:00.000Z</published>
+    <updated>2023-02-15T14:39:50.755Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;泡泡虾&quot;&gt;&lt;a href=&quot;#泡泡虾&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="内德饵" scheme="https://www.gznb.xyz/categories/%E5%86%85%E5%BE%B7%E9%A5%B5/"/>
+    
+    
+    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
+    
+    <category term="内德饵" scheme="https://www.gznb.xyz/tags/%E5%86%85%E5%BE%B7%E9%A5%B5/"/>
+    
+    <category term="虾" scheme="https://www.gznb.xyz/tags/%E8%99%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>爆钓T尾</title>
     <link href="https://www.gznb.xyz/2022/11/29/ahbg74qxg72oi3cf/"/>
     <id>https://www.gznb.xyz/2022/11/29/ahbg74qxg72oi3cf/</id>
     <published>2022-11-29T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.243Z</updated>
+    <updated>2023-02-15T14:39:50.750Z</updated>
     
     
       
@@ -144,7 +146,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="T尾" scheme="https://www.gznb.xyz/categories/T%E5%B0%BE/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -158,7 +160,7 @@
     <link href="https://www.gznb.xyz/2022/11/29/drv0sdycyiwzorox/"/>
     <id>https://www.gznb.xyz/2022/11/29/drv0sdycyiwzorox/</id>
     <published>2022-11-29T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.242Z</updated>
+    <updated>2023-02-15T14:39:50.753Z</updated>
     
     
       
@@ -171,34 +173,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
-    
-    
-    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
-    
-    <category term="T尾" scheme="https://www.gznb.xyz/tags/T%E5%B0%BE/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>小鱼儿T尾</title>
-    <link href="https://www.gznb.xyz/2022/11/29/qmm1ogf0hfaab2e0/"/>
-    <id>https://www.gznb.xyz/2022/11/29/qmm1ogf0hfaab2e0/</id>
-    <published>2022-11-29T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.241Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;螺纹-T-尾&quot;&gt;&lt;a href=&quot;#螺纹-T-尾&quot; class=&quot;headerlink&quot; title=&quot;螺纹 T 尾&quot;&gt;&lt;/a&gt;螺纹 T</summary>
-        
-      
-    
-    
-    
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="T尾" scheme="https://www.gznb.xyz/categories/T%E5%B0%BE/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -212,7 +187,7 @@
     <link href="https://www.gznb.xyz/2022/11/29/tczrhk0bgu80coyt/"/>
     <id>https://www.gznb.xyz/2022/11/29/tczrhk0bgu80coyt/</id>
     <published>2022-11-29T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.242Z</updated>
+    <updated>2023-02-15T14:39:50.757Z</updated>
     
     
       
@@ -225,7 +200,34 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="T尾" scheme="https://www.gznb.xyz/categories/T%E5%B0%BE/"/>
+    
+    
+    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
+    
+    <category term="T尾" scheme="https://www.gznb.xyz/tags/T%E5%B0%BE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小鱼儿T尾</title>
+    <link href="https://www.gznb.xyz/2022/11/29/qmm1ogf0hfaab2e0/"/>
+    <id>https://www.gznb.xyz/2022/11/29/qmm1ogf0hfaab2e0/</id>
+    <published>2022-11-29T08:23:14.000Z</published>
+    <updated>2023-02-15T14:39:50.756Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;螺纹-T-尾&quot;&gt;&lt;a href=&quot;#螺纹-T-尾&quot; class=&quot;headerlink&quot; title=&quot;螺纹 T 尾&quot;&gt;&lt;/a&gt;螺纹 T</summary>
+        
+      
+    
+    
+    
+    <category term="T尾" scheme="https://www.gznb.xyz/categories/T%E5%B0%BE/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -239,7 +241,7 @@
     <link href="https://www.gznb.xyz/2022/11/29/vwlth5gms6gfekm7/"/>
     <id>https://www.gznb.xyz/2022/11/29/vwlth5gms6gfekm7/</id>
     <published>2022-11-29T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.242Z</updated>
+    <updated>2023-02-15T14:39:50.759Z</updated>
     
     
       
@@ -252,7 +254,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="T尾" scheme="https://www.gznb.xyz/categories/T%E5%B0%BE/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -266,7 +268,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/as2delgi52epql4d/"/>
     <id>https://www.gznb.xyz/2022/09/20/as2delgi52epql4d/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.246Z</updated>
+    <updated>2023-02-15T14:39:50.751Z</updated>
     
     
       
@@ -279,7 +281,7 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="软饵" scheme="https://www.gznb.xyz/categories/%E8%BD%AF%E9%A5%B5/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -289,38 +291,11 @@
   </entry>
   
   <entry>
-    <title>弯曲SENKO</title>
-    <link href="https://www.gznb.xyz/2022/09/20/aaf3n0dywv98zu7n/"/>
-    <id>https://www.gznb.xyz/2022/09/20/aaf3n0dywv98zu7n/</id>
-    <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.244Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;弯曲-SENKO&quot;&gt;&lt;a href=&quot;#弯曲-SENKO&quot; class=&quot;headerlink&quot; title=&quot;弯曲 SENKO&quot;&gt;&lt;/a&gt;弯曲</summary>
-        
-      
-    
-    
-    
-    <category term="面条虫" scheme="https://www.gznb.xyz/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
-    
-    
-    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
-    
-    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
-    
-  </entry>
-  
-  <entry>
     <title>鳌虾</title>
     <link href="https://www.gznb.xyz/2022/09/20/blgz538l42xszd9k/"/>
     <id>https://www.gznb.xyz/2022/09/20/blgz538l42xszd9k/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.245Z</updated>
+    <updated>2023-02-15T14:39:50.752Z</updated>
     
     
       
@@ -333,39 +308,12 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="虾" scheme="https://www.gznb.xyz/categories/%E8%99%BE/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
     
-    <category term="虾子" scheme="https://www.gznb.xyz/tags/%E8%99%BE%E5%AD%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>neko</title>
-    <link href="https://www.gznb.xyz/2022/09/20/dvo0tqukog6fcv7w/"/>
-    <id>https://www.gznb.xyz/2022/09/20/dvo0tqukog6fcv7w/</id>
-    <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.244Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;neko&quot;&gt;&lt;a href=&quot;#neko&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="面条虫" scheme="https://www.gznb.xyz/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
-    
-    
-    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
-    
-    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
+    <category term="虾" scheme="https://www.gznb.xyz/tags/%E8%99%BE/"/>
     
   </entry>
   
@@ -374,7 +322,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/egh8x94ur6hy9ax8/"/>
     <id>https://www.gznb.xyz/2022/09/20/egh8x94ur6hy9ax8/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.244Z</updated>
+    <updated>2023-02-15T14:39:50.754Z</updated>
     
     
       
@@ -397,11 +345,65 @@
   </entry>
   
   <entry>
+    <title>竹节虫</title>
+    <link href="https://www.gznb.xyz/2022/09/20/ex0zzoalfvl878l5/"/>
+    <id>https://www.gznb.xyz/2022/09/20/ex0zzoalfvl878l5/</id>
+    <published>2022-09-20T08:23:14.000Z</published>
+    <updated>2023-02-15T14:39:50.754Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;竹节虫&quot;&gt;&lt;a href=&quot;#竹节虫&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="内德饵" scheme="https://www.gznb.xyz/categories/%E5%86%85%E5%BE%B7%E9%A5%B5/"/>
+    
+    
+    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
+    
+    <category term="内德饵" scheme="https://www.gznb.xyz/tags/%E5%86%85%E5%BE%B7%E9%A5%B5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>neko</title>
+    <link href="https://www.gznb.xyz/2022/09/20/dvo0tqukog6fcv7w/"/>
+    <id>https://www.gznb.xyz/2022/09/20/dvo0tqukog6fcv7w/</id>
+    <published>2022-09-20T08:23:14.000Z</published>
+    <updated>2023-02-15T14:39:50.753Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;neko&quot;&gt;&lt;a href=&quot;#neko&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="面条虫" scheme="https://www.gznb.xyz/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
+    
+    
+    <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
+    
+    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大叉尾</title>
     <link href="https://www.gznb.xyz/2022/09/20/ii6a0zy598mh3o9c/"/>
     <id>https://www.gznb.xyz/2022/09/20/ii6a0zy598mh3o9c/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.247Z</updated>
+    <updated>2023-02-15T14:39:50.755Z</updated>
     
     
       
@@ -414,7 +416,7 @@
     
     
     
-    <category term="叉尾" scheme="https://www.gznb.xyz/categories/%E5%8F%89%E5%B0%BE/"/>
+    <category term="Jerkbaits" scheme="https://www.gznb.xyz/categories/Jerkbaits/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -428,7 +430,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/qp88rdf6viipvmhe/"/>
     <id>https://www.gznb.xyz/2022/09/20/qp88rdf6viipvmhe/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.246Z</updated>
+    <updated>2023-02-15T14:39:50.756Z</updated>
     
     
       
@@ -441,7 +443,7 @@
     
     
     
-    <category term="蛙" scheme="https://www.gznb.xyz/categories/%E8%9B%99/"/>
+    <category term="打黑" scheme="https://www.gznb.xyz/categories/%E6%89%93%E9%BB%91/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
@@ -455,7 +457,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/syrqnbr3pnq6w66c/"/>
     <id>https://www.gznb.xyz/2022/09/20/syrqnbr3pnq6w66c/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.246Z</updated>
+    <updated>2023-02-15T14:39:50.757Z</updated>
     
     
       
@@ -478,29 +480,29 @@
   </entry>
   
   <entry>
-    <title>Smart T Tail</title>
-    <link href="https://www.gznb.xyz/2022/09/20/ih8zla8avro4dqs0/"/>
-    <id>https://www.gznb.xyz/2022/09/20/ih8zla8avro4dqs0/</id>
+    <title>双尾面条虫</title>
+    <link href="https://www.gznb.xyz/2022/09/20/ve67t07fg7esprqx/"/>
+    <id>https://www.gznb.xyz/2022/09/20/ve67t07fg7esprqx/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.241Z</updated>
+    <updated>2023-02-15T14:39:50.758Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;爆钓-T-尾&quot;&gt;&lt;a href=&quot;#爆钓-T-尾&quot; class=&quot;headerlink&quot; title=&quot;爆钓 T 尾&quot;&gt;&lt;/a&gt;爆钓 T</summary>
+    <summary type="html">&lt;h2 id=&quot;双尾面条虫&quot;&gt;&lt;a href=&quot;#双尾面条虫&quot; class=&quot;headerlink&quot;</summary>
         
       
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="面条虫" scheme="https://www.gznb.xyz/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
     
-    <category term="T尾" scheme="https://www.gznb.xyz/tags/T%E5%B0%BE/"/>
+    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
     
   </entry>
   
@@ -509,7 +511,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/xr9rh2rezfynxmyo/"/>
     <id>https://www.gznb.xyz/2022/09/20/xr9rh2rezfynxmyo/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.246Z</updated>
+    <updated>2023-02-15T14:39:50.760Z</updated>
     
     
       
@@ -536,7 +538,7 @@
     <link href="https://www.gznb.xyz/2022/09/20/xx7pgkhy7cbathb6/"/>
     <id>https://www.gznb.xyz/2022/09/20/xx7pgkhy7cbathb6/</id>
     <published>2022-09-20T08:23:14.000Z</published>
-    <updated>2023-02-13T13:19:18.244Z</updated>
+    <updated>2023-02-15T14:39:50.760Z</updated>
     
     
       
@@ -549,12 +551,12 @@
     
     
     
-    <category term="Markdown" scheme="https://www.gznb.xyz/categories/Markdown/"/>
+    <category term="面条虫" scheme="https://www.gznb.xyz/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
     
     
     <category term="软饵" scheme="https://www.gznb.xyz/tags/%E8%BD%AF%E9%A5%B5/"/>
     
-    <category term="苗条虫" scheme="https://www.gznb.xyz/tags/%E8%8B%97%E6%9D%A1%E8%99%AB/"/>
+    <category term="面条虫" scheme="https://www.gznb.xyz/tags/%E9%9D%A2%E6%9D%A1%E8%99%AB/"/>
     
   </entry>
   
