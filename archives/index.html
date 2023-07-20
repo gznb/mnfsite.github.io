@@ -28,10 +28,6 @@
 
   
   
-    
-<link rel="stylesheet" href="/js/fancybox/jquery.fancybox.min.css">
-
-  
   
     
 <link rel="stylesheet" href="/js/shareJs/share.min.css">
@@ -239,28 +235,6 @@
           
             <li class="drawer-box-content_item" style="position: relative;">
               
-                <a href="/archives" class="drawer-menu-item-link">
-                  
-                    <i class="fas fa-archive" aria-hidden="true"></i>
-                  
-                  <span class="name">归档</span>
-                </a>
-              
-            </li>
-          
-            <li class="drawer-box-content_item" style="position: relative;">
-              
-                <a href="/tags" class="drawer-menu-item-link">
-                  
-                    <i class="fas fa-tags" aria-hidden="true"></i>
-                  
-                  <span class="name">标签</span>
-                </a>
-              
-            </li>
-          
-            <li class="drawer-box-content_item" style="position: relative;">
-              
                 <a href="/categories" class="drawer-menu-item-link">
                   
                     <i class="fas fa-bookmark" aria-hidden="true"></i>
@@ -353,28 +327,6 @@
                     <i class="fas fa-home" aria-hidden="true"></i>
                   
                   <span class="name">首页</span>
-                </a>
-              
-            </li>
-          
-            <li class="menu-item" style="position: relative;">
-              
-                <a href="/archives" class="menu-item-link" title="归档">
-                  
-                    <i class="fas fa-archive" aria-hidden="true"></i>
-                  
-                  <span class="name">归档</span>
-                </a>
-              
-            </li>
-          
-            <li class="menu-item" style="position: relative;">
-              
-                <a href="/tags" class="menu-item-link" title="标签">
-                  
-                    <i class="fas fa-tags" aria-hidden="true"></i>
-                  
-                  <span class="name">标签</span>
                 </a>
               
             </li>
@@ -485,6 +437,32 @@
   </div>
   
   
+    <div id="he-plugin-simple"></div>
+    <script>
+      WIDGET = {
+        CONFIG: {
+          "modules": "012",
+          "background": 5,
+          "tmpColor": "4A4A4A",
+          "tmpSize": 16,
+          "cityColor": "4A4A4A",
+          "citySize": 16,
+          "aqiSize": 16,
+          "weatherIconSize": 24,
+          "alertIconSize": 18,
+          "padding": "10px 10px 10px 10px",
+          "shadow": "1",
+          "language": "auto",
+          "borderRadius": 5,
+          "fixed": "false",
+          "vertical": "middle",
+          "horizontal": "center",
+          "key": "2784dd3fcb1e4f0f9a9b579bf69641f2"
+        }
+      }
+    </script>
+    <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script> 
+    
 </header>
         <!-- 内容区域 -->
         <div class="bg-dark-floor" style="position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: -2;"></div>
@@ -500,7 +478,7 @@
   function typedFn() {
     const el = '#archive-header-desc';
     const type = 'archive';
-    let desc = '愿你如风，被人温柔以待'
+    let desc = ''
     var typed = new Typed(el, {
       strings: [desc],
       startDelay: 100,
@@ -531,7 +509,7 @@
   function typedFn() {
     const el = '#archive-video-header-desc';
     const type = 'archive';
-    let desc = '愿你如风，被人温柔以待'
+    let desc = ''
     var typed = new Typed(el, {
       strings: [desc],
       startDelay: 100,
@@ -675,6 +653,23 @@
           <li class="post-item" data-aos="fade-left">
             
             <div class="post-img-box">
+              <a href="/2022/11/29/tczrhk0bgu80coyt/" class="post-img " style="background-size: cover; 
+                background-position: center center;">
+                <img class="lazyload lazyload placeholder" src="https://imgqn.mnffish.com/cover/%E6%B5%AA%E9%87%8C%E7%99%BD%E6%9D%A1.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E6%B5%AA%E9%87%8C%E7%99%BD%E6%9D%A1.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="">
+              </a>
+            </div>
+            <div class="post-date-title">
+              <div>
+                <span class="post-date">11-29</span>
+              </div>
+              <a class="post-title" href="/2022/11/29/tczrhk0bgu80coyt/">浪里白条</a>
+            </div>
+          </li>
+        
+          
+          <li class="post-item" data-aos="fade-left">
+            
+            <div class="post-img-box">
               <a href="/2022/11/29/qmm1ogf0hfaab2e0/" class="post-img " style="background-size: cover; 
                 background-position: center center;">
                 <img class="lazyload lazyload placeholder" src="https://imgqn.mnffish.com/cover/10cm%E5%A4%A7T%E5%B0%BE.jpeg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/10cm%E5%A4%A7T%E5%B0%BE.jpeg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="">
@@ -692,16 +687,16 @@
           <li class="post-item" data-aos="fade-left">
             
             <div class="post-img-box">
-              <a href="/2022/11/29/tczrhk0bgu80coyt/" class="post-img " style="background-size: cover; 
+              <a href="/2022/11/29/%E6%A8%A1%E6%9D%BF/" class="post-img " style="background-size: cover; 
                 background-position: center center;">
-                <img class="lazyload lazyload placeholder" src="https://imgqn.mnffish.com/cover/%E6%B5%AA%E9%87%8C%E7%99%BD%E6%9D%A1.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E6%B5%AA%E9%87%8C%E7%99%BD%E6%9D%A1.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="">
+                <img class="lazyload lazyload placeholder" src="https://imgqn.mnffish.com/softbaits/Ttail/LWT/detail/白底图.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/softbaits/Ttail/LWT/detail/白底图.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="">
               </a>
             </div>
             <div class="post-date-title">
               <div>
                 <span class="post-date">11-29</span>
               </div>
-              <a class="post-title" href="/2022/11/29/tczrhk0bgu80coyt/">浪里白条</a>
+              <a class="post-title" href="/2022/11/29/%E6%A8%A1%E6%9D%BF/">螺纹T尾</a>
             </div>
           </li>
         
@@ -722,35 +717,18 @@
             </div>
           </li>
         
-          
-          <li class="post-item" data-aos="fade-left">
-            
-            <div class="post-img-box">
-              <a href="/2022/09/20/as2delgi52epql4d/" class="post-img " style="background-size: cover; 
-                background-position: center center;">
-                <img class="lazyload lazyload placeholder" src="https://imgqn.mnffish.com/cover/%E6%A3%92%E6%A3%92%E8%99%AB.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E6%A3%92%E6%A3%92%E8%99%AB.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" alt="">
-              </a>
-            </div>
-            <div class="post-date-title">
-              <div>
-                <span class="post-date">09-20</span>
-              </div>
-              <a class="post-title" href="/2022/09/20/as2delgi52epql4d/">棒棒虫</a>
-            </div>
-          </li>
-        
       </ul>
     </div>
   </section>
   <div class="w-70">
     
   <!-- <nav class="page-nav">
-    <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="extend next" rel="next" href="/archives/page/2/">下一页</a>
+    <span class="page-number current">1</span><a class="page-number" href="/archives/page/2/">2</a><a class="page-number" href="/archives/page/3/">3</a><a class="extend next" rel="next" href="/archives/page/2/">下一页</a>
   </nav> -->
   <div class="page-nav">
     
     <div class="page-info">
-        <div class="page-info-text">1 / 2</div>
+        <div class="page-info-text">1 / 3</div>
     </div>
     
       <a href="/archives/page/2/"
@@ -939,7 +917,7 @@
       
         
           <div class="footer-copyright">
-            <p>Copyright © 2019 - 2020 <a target="_blank" rel="noopener" href="https://github.com/yuang01">yuang01</a> | Powered by <a target="_blank" rel="noopener" href="https://hexo.io/zh-cn/docs/">Hexo</a> | Theme <a target="_blank" rel="noopener" href="https://github.com/yuang01/theme">Bamboo</a> </p>
+            <p><a href="https://beian.miit.gov.cn/" target="_blank">粤ICP备2023031745号-1</a> </p>
 
           </div>
         
@@ -1019,8 +997,6 @@
     
 
     <!-- 图片放大 -->
-    
-      <script src="/js/fancybox/jquery.fancybox.min.js"></script>
     
 
     <!-- 百度解析 -->
@@ -1316,7 +1292,7 @@
         function doSomething() {
           that.$notify({
             title: "成功",
-            content: "代码已复制，请遵守相关授权协议。",
+            content: "文章已复制，请遵守相关授权协议。",
             type: 'success'
           })
         }

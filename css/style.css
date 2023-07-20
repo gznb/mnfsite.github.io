@@ -175,7 +175,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   color: #fff;
 }
 .bg-floor {
-  background: url("https://imgqn.mnffish.com/index-bg.jpg");
+  background: url("https://imgqn.mnffish.com/catch/catch05.jpg");
   background-size: cover;
   transition: all 0.3s;
 }
@@ -1035,6 +1035,9 @@ pre:hover::-webkit-scrollbar-thumb:hover,
   }
   .header #he-plugin-simple {
     margin-right: 0;
+  }
+  .header .blog-title {
+    margin-left: 150px;
   }
 }
 @media (max-width: 551px) {
