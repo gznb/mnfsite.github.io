@@ -80,7 +80,9 @@
 <script src="https://unpkg.com/vue@2.6.11/dist/vue.min.js"></script>
 
   
-  
+    
+  <link href="https://cdn.staticfile.org/twitter-bootstrap/5.1.1/css/bootstrap.min.css" rel="stylesheet">
+
   <body>
     <!-- 预加载动画 -->
     <!-- 页面预加载动画 -->
@@ -317,7 +319,7 @@
       <a href="/" class="logo"></a>
     </div>
     <nav class="navbar">
-      <ul class="menu">
+      <ul class="menu" style="height: 60px;">
         
           
             <li class="menu-item" style="position: relative;">
@@ -466,8 +468,16 @@
 </header>
         <!-- 内容区域 -->
         
+
+
 <div class="bg-dark-floor" style="position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: -2;"></div>
 <div class="bg-light-floor-categories" style="position: fixed;left: 0;top: 0;width: 100%;height: 100%;z-index: -3;"></div>
+<style>
+    div.tp {
+        box-shadow: 0 5px 20px -6px rgba(20, 20, 20, 0.5);
+
+    }
+</style>
 
 <div class="categories-header" style="background-image:url('https://imgqn.mnffish.com/catch/catch05.jpg')">
     <div class="categories-header-title">
@@ -499,83 +509,189 @@
 
 
 
+<!-- 这里是展示的所有分类，包括标签 -->
 <div id="categories" class="container">
     <div class="card">
         <div class="card-content">
             <div class="category-title center-align">
                 <i class="fas fa-tags"></i>&nbsp;&nbsp;产品分类
+            </div>
+            <div class="container-fluid mt-3">
+            <!-- 里面有个posts 的对象，里面放的是改分类的左右文章 -->
+                
+                    <div class="row" style="margin-top:20px; ">
+                        
 
-            </div>
-            <div class="category-chips">
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/T%E5%B0%BE/" title="T尾: 5">
+                                            <img src="https://imgqn.mnffish.com/cover/%E7%81%B5%E5%8A%A8T%E5%B0%BE.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E7%81%B5%E5%8A%A8T%E5%B0%BE.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> T尾 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E8%BD%AF%E9%A5%B5/" title="软饵: 4">
+                                            <img src="https://imgqn.mnffish.com/软饵/面条虫/摆尾虫/白底图.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/软饵/面条虫/摆尾虫/白底图.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 软饵 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E8%99%BE/" title="虾: 2">
+                                            <img src="https://imgqn.mnffish.com/cover/%E7%81%B5%E5%8A%A8%E8%99%BE.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E7%81%B5%E5%8A%A8%E8%99%BE.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 虾 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/" title="面条虫: 6">
+                                            <img src="https://imgqn.mnffish.com/cover/%E5%8F%8C%E5%B0%BE%E8%9B%87.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E5%8F%8C%E5%B0%BE%E8%9B%87.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 面条虫 </div>
+                                </div>
+                        
+                    </div>
                 
+                    <div class="row" style="margin-top:20px; ">
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E5%86%85%E5%BE%B7%E9%A5%B5/" title="内德饵: 3">
+                                            <img src="https://imgqn.mnffish.com/cover/%E6%91%87%E6%9B%B3%E8%99%BE.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E6%91%87%E6%9B%B3%E8%99%BE.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 内德饵 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/Jerkbaits/" title="Jerkbaits: 1">
+                                            <img src="https://imgqn.mnffish.com/cover/%E5%A4%A7%E5%8F%89%E5%B0%BE.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E5%A4%A7%E5%8F%89%E5%B0%BE.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> Jerkbaits </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E6%89%93%E9%BB%91/" title="打黑: 1">
+                                            <img src="https://imgqn.mnffish.com/cover/%E5%A4%A7%E6%91%86%E9%94%A4.jpg" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E5%A4%A7%E6%91%86%E9%94%A4.jpg" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 打黑 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E5%8D%B7%E5%B0%BE/" title="卷尾: 1">
+                                            <img src="https://imgqn.mnffish.com/cover/%E9%B3%85%E5%88%80%E5%8D%B7%E5%B0%BE.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/cover/%E9%B3%85%E5%88%80%E5%8D%B7%E5%B0%BE.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 卷尾 </div>
+                                </div>
+                        
+                    </div>
                 
-                <a href="/categories/%E8%BD%AF%E9%A5%B5/" title="软饵: 1">
-                    <span class="category-content"
-                        title="软饵" style="background-color: #A3E4D7;">软饵
-                        <span class="category-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/T%E5%B0%BE/" title="T尾: 6">
-                    <span class="category-content"
-                        title="T尾" style="background-color: #F8C471;">T尾
-                        <span class="category-length">6</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E8%99%BE/" title="虾: 2">
-                    <span class="category-content"
-                        title="虾" style="background-color: #82E0AA;">虾
-                        <span class="category-length">2</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E9%9D%A2%E6%9D%A1%E8%99%AB/" title="面条虫: 6">
-                    <span class="category-content"
-                        title="面条虫" style="background-color: #F8C471;">面条虫
-                        <span class="category-length">6</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E5%86%85%E5%BE%B7%E9%A5%B5/" title="内德饵: 3">
-                    <span class="category-content"
-                        title="内德饵" style="background-color: #F9E79F;">内德饵
-                        <span class="category-length">3</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/Jerkbaits/" title="Jerkbaits: 1">
-                    <span class="category-content"
-                        title="Jerkbaits" style="background-color: #F9E79F;">Jerkbaits
-                        <span class="category-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E5%8D%B7%E5%B0%BE/" title="卷尾: 1">
-                    <span class="category-content"
-                        title="卷尾" style="background-color: #D7BDE2;">卷尾
-                        <span class="category-length">1</span>
-                    </span>
-                </a>
-                
-                
-                <a href="/categories/%E6%89%93%E9%BB%91/" title="打黑: 1">
-                    <span class="category-content"
-                        title="打黑" style="background-color: #A3E4D7;">打黑
-                        <span class="category-length">1</span>
-                    </span>
-                </a>
-                
-            </div>
+                    <div class="row" style="margin-top:20px; ">
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E8%BD%AF%E9%A5%B5/%E5%86%85%E5%BE%B7%E9%A5%B5/" title="内德饵: 1">
+                                            <img src="https://imgqn.mnffish.com/软饵/内德饵/竹节虫/白底图.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/软饵/内德饵/竹节虫/白底图.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 内德饵 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E8%BD%AF%E9%A5%B5/T%E5%B0%BE/" title="T尾: 1">
+                                            <img src="https://imgqn.mnffish.com/软饵/T尾/螺纹T尾/白底图.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/软饵/T尾/螺纹T尾/白底图.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> T尾 </div>
+                                </div>
+                        
+
+                            
+                           
+                                <div class="col-sm-4 category-chips" style="width: 25%; height: 0; padding-bottom: 26%;">
+                                    
+                                    <div class="tp"> 
+                                        <a href="/categories/%E8%BD%AF%E9%A5%B5/%E9%9D%A2%E6%9D%A1%E8%99%AB/" title="面条虫: 1">
+                                            <img src="https://imgqn.mnffish.com/软饵/面条虫/摆尾虫/白底图.png" class="lazyload placeholder" data-srcset="https://imgqn.mnffish.com/软饵/面条虫/摆尾虫/白底图.png" srcset="https://pic1.zhimg.com/v2-cd38920285d125be80b3eb504052c550_b.webp" style="width: 300px; height: 300px; opacity: .9" />
+                                            
+                                        </a>
+                                    </div>
+                                    <div style="margin-top:10px"> 面条虫 </div>
+                                </div>
+                        
+
+                            
+                    </div>
+                    
+            </div>   
         </div>
-    </div>
+    </div> 
 </div>
+        
 
       </main>
     </div>

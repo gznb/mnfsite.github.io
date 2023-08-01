@@ -1693,7 +1693,7 @@ pre:hover::-webkit-scrollbar-thumb:hover,
 }
 .post-detail table tr td {
   border: 1px solid #dfe2e5;
-  text-align: left;
+  text-align: center;
   margin: 0;
   padding: 6px 13px;
   word-wrap: break-word;
